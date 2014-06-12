@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>t00MYLj5k8ABDLcvmDkPojoi</string>
+	<key>DEBUG</key>
+	<false/>
+	<key>PRODUCTION_MODE</key>
+	<true/>
+	<key>app_id</key>
+	<integer>320364</integer>
+	<key>bduss</key>
+	<string></string>
+	<key>channel_id</key>
+	<string>5376238533920759969</string>
+	<key>device_token</key>
+	<string>768e09eb2cfa07b7fd9035265834dd1905e97e1d25fd453a9fcea57b73280090</string>
+	<key>device_token_old</key>
+	<string>768e09eb2cfa07b7fd9035265834dd1905e97e1d25fd453a9fcea57b73280090</string>
+	<key>stats_switch</key>
+	<string>YES</string>
+	<key>udid_old</key>
+	<string>cb0f389891f2281110655ce35f65786c888b7cf8</string>
+	<key>user_id</key>
+	<string>1123759528828749828</string>
+</dict>
+</plist>
